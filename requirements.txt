@@ -4,3 +4,5 @@ spacy==3.7.2
 langdetect==1.0.7
 openai==1.12.0
 pymongo==4.6.1
+python-dotenv==1.0.1
+monggregate==0.21.0b0
