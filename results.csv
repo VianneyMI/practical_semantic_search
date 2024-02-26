@@ -1,0 +1,91 @@
+﻿Metrics;Prompt Theme;Song;Actual Theme;Rank;Score
+Euclidean;Overcoming Adversity;Eminem: Lose Yourself;Overcoming adversity;1;0.4151133894920349
+Euclidean;Overcoming Adversity;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.39296796917915344
+Euclidean;Overcoming Adversity;I Will Survive;Overcoming adversity;3;0.38733717799186707
+Euclidean;Lost love and longing;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;1;0.46870335936546326
+Euclidean;Lost love and longing;Adele: Someone Like You;Lost love and longing;2;0.4680449068546295
+Euclidean;Lost love and longing;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.44595789909362793
+Euclidean;Unconventional love;Lady Gaga: Born This Way;Unconventional love;1;0.41781771183013916
+Euclidean;Unconventional love;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;2;0.3831189274787903
+Euclidean;Unconventional love;Coldplay: A Sky Full Of Stars;Unconventional love;3;0.3781980872154236
+Euclidean;Celebrating life's simple joys;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;1;0.42814528942108154
+Euclidean;Celebrating life's simple joys;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.41656026244163513
+Euclidean;Celebrating life's simple joys;Electric Light Orchestra: Mr. Blue Sky;Celebrating life's simple joys;3;0.4032382071018219
+Euclidean;Finding Hope in Unexpected Places;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.41544079780578613
+Euclidean;Finding Hope in Unexpected Places;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.41099369525909424
+Euclidean;Finding Hope in Unexpected Places;Leonard Cohen: Hallelujah;Finding Hope in Unexpected Places;3;0.40831348299980164
+Euclidean;The Beauty and Pain of Vulnerability;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.41457399725914
+Euclidean;The Beauty and Pain of Vulnerability;Adele: Someone Like You;Lost love and longing;2;0.40860140323638916
+Euclidean;The Beauty and Pain of Vulnerability;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;3;0.40022528171539307
+Euclidean;The Enduring Power of Love and Connection;Adele: Someone Like You;Lost love and longing;1;0.405825674533844
+Euclidean;The Enduring Power of Love and Connection;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.4015842080116272
+Euclidean;The Enduring Power of Love and Connection;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.3990526795387268
+Euclidean;Hustle and Ambition;Eminem: Lose Yourself;Overcoming adversity;1;0.421954870223999
+Euclidean;Hustle and Ambition;Drake: Headlines;Hustle and Ambition;2;0.380825936794281
+Euclidean;Hustle and Ambition;Kanye West: Runaway;Vulnerability and Emotional Honesty;3;0.3754409849643707
+Euclidean;Vulnerability and Emotional Honesty;Eminem: Lose Yourself;Overcoming adversity;1;0.42095711827278137
+Euclidean;Vulnerability and Emotional Honesty;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.42006510496139526
+Euclidean;Vulnerability and Emotional Honesty;Gloria Gaynor: I Will Survive;Overcoming adversity;3;0.41677039861679077
+Euclidean;Finding Joy and Celebration in Life's Moments;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;;0.4160277545452118
+Euclidean;Finding Joy and Celebration in Life's Moments;Bob Marley: Three Little Birds;Celebrating life's simple joys;;0.4039662778377533
+Euclidean;Finding Joy and Celebration in Life's Moments;Lady Gaga: Born This Way;Unconventional love;;0.3914879560470581
+Cosine;Overcoming adversity;Eminem: Lose Yourself;Overcoming adversity;1;0.6477550268173218
+Cosine;Overcoming adversity;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.6138158440589905
+Cosine;Overcoming adversity;Gloria Gaynor: I Will Survive;Overcoming adversity;3;0.6045674681663513
+Cosine;Lost love and longing;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;1;0.7166138887405396
+Cosine;Lost love and longing;Adele: Someone Like You;Lost love and longing;2;0.7158632278442383
+Cosine;Lost love and longing;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.6894091963768005
+Cosine;Unconventional love;Lady Gaga: Born This Way;Unconventional love;1;0.6516532301902771
+Cosine;Unconventional love;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;2;0.5974610447883606
+Cosine;Unconventional love;Coldplay: A Sky Full Of Stars;Unconventional love;3;0.5889706611633301
+Cosine;Celebrating life's simple joys;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;1;0.6660863161087036
+Cosine;Celebrating life's simple joys;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6498466730117798
+Cosine;Celebrating life's simple joys;Electric Light Orchestra: Mr. Blue Sky;Celebrating life's simple joys;3;0.6300191283226013
+Cosine;Finding Hope in Unexpected Places;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.648229718208313
+Cosine;Finding Hope in Unexpected Places;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6417179703712463
+Cosine;Finding Hope in Unexpected Places;Leonard Cohen: Hallelujah;Finding Hope in Unexpected Places;3;0.6377255916595459
+Cosine;The Beauty and Pain of Vulnerability;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.6469717025756836
+Cosine;The Beauty and Pain of Vulnerability;Adele: Someone Like You;Lost love and longing;2;0.6381572484970093
+Cosine;The Beauty and Pain of Vulnerability;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;3;0.6253520846366882
+Cosine;The Enduring Power of Love and Connection;Adele: Someone Like You;Lost love and longing;1;0.63397216796875
+Cosine;The Enduring Power of Love and Connection;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.6274654269218445
+Cosine;The Enduring Power of Love and Connection;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.6235166192054749
+Cosine;Hustle and Ambition;Eminem: Lose Yourself;Overcoming adversity;1;0.6575193405151367
+Cosine;Hustle and Ambition;Drake: Headlines;Hustle and Ambition;2;0.5935320258140564
+Cosine;Hustle and Ambition;Kanye West: Runaway;Vulnerability and Emotional Honesty;3;0.5841163992881775
+Cosine;Vulnerability and Emotional Honesty;Eminem: Lose Yourself;Overcoming adversity;1;0.6561151742935181
+Cosine;Vulnerability and Emotional Honesty;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.6548541784286499
+Cosine;Vulnerability and Emotional Honesty;Gloria Gaynor: I Will Survive;Overcoming adversity;3;0.6501492261886597
+Cosine;Finding Joy and Celebration in Life's Moments;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;1;0.6490781903266907
+Cosine;Finding Joy and Celebration in Life's Moments;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6311363577842712
+Cosine;Finding Joy and Celebration in Life's Moments;Lady Gaga: Born This Way;Unconventional love;3;0.6114106178283691
+Dot Product;Overcoming adversity;Eminem: Lose Yourself;Overcoming adversity;1;0.6477552056312561
+Dot Product;Overcoming adversity;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.6138159036636353
+Dot Product;Overcoming adversity;Gloria Gaynor: I Will Survive;Overcoming adversity;3;0.6045676469802856
+Dot Product;Lost love and longing;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;1;0.7166137099266052
+Dot Product;Lost love and longing;Adele: Someone Like You;Lost love and longing;2;0.715863049030304
+Dot Product;Lost love and longing;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.6894090175628662
+Dot Product;Unconventional love;Lady Gaga: Born This Way;Unconventional love;1;0.6516531109809875
+Dot Product;Unconventional love;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;2;0.5974611043930054
+Dot Product;Unconventional love;Coldplay: A Sky Full Of Stars;Unconventional love;3;0.5889706611633301
+Dot Product;Celebrating life's simple joys;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;1;0.6660861968994141
+Dot Product;Celebrating life's simple joys;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6498468518257141
+Dot Product;Celebrating life's simple joys;Electric Light Orchestra: Mr. Blue Sky;Celebrating life's simple joys;3;0.6300190687179565
+Dot Product;Finding Hope in Unexpected Places;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.6482298374176025
+Dot Product;Finding Hope in Unexpected Places;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6417180895805359
+Dot Product;Finding Hope in Unexpected Places;Leonard Cohen: Hallelujah;Finding Hope in Unexpected Places;3;0.6377253532409668
+Dot Product;The Beauty and Pain of Vulnerability;Coldplay: Fix You;Finding Hope in Unexpected Places;1;0.6469714641571045
+Dot Product;The Beauty and Pain of Vulnerability;Adele: Someone Like You;Lost love and longing;2;0.6381570100784302
+Dot Product;The Beauty and Pain of Vulnerability;Taylor Swift: All Too Well;The Beauty and Pain of Vulnerability;3;0.6253518462181091
+Dot Product;The Enduring Power of Love and Connection;Adele: Someone Like You;Lost love and longing;1;0.6339719295501709
+Dot Product;The Enduring Power of Love and Connection;Coldplay: Fix You;Finding Hope in Unexpected Places;2;0.6274657249450684
+Dot Product;The Enduring Power of Love and Connection;Whitney Houston: I Will Always Love You;The Enduring Power of Love and Connection;3;0.6235164403915405
+Dot Product;Hustle and Ambition;Eminem: Lose Yourself;Overcoming adversity;1;0.6575194001197815
+Dot Product;Hustle and Ambition;Drake: Headlines;Hustle and Ambition;2;0.5935319662094116
+Dot Product;Hustle and Ambition;Kanye West: Runaway;Vulnerability and Emotional Honesty;3;0.5841163992881775
+Dot Product;Vulnerability and Emotional Honesty;Eminem: Lose Yourself;Overcoming adversity;1;0.6561150550842285
+Dot Product;Vulnerability and Emotional Honesty;Coldplay: Fix You;Finding Hope in Unexpected Place;2;0.6548541784286499
+Dot Product;Vulnerability and Emotional Honesty;Gloria Gaynor: I Will Survive;Overcoming adversity;3;0.6501494646072388
+Dot Product;Finding Joy and Celebration in Life's Moments;Pharrell Williams: Happy;Finding Joy and Celebration in Life's Moments;1;0.6490783095359802
+Dot Product;Finding Joy and Celebration in Life's Moments;Bob Marley: Three Little Birds;Celebrating life's simple joys;2;0.6311366558074951
+Dot Product;Finding Joy and Celebration in Life's Moments;Lady Gaga: Born This Way;Unconventional love;3;0.6114106178283691
